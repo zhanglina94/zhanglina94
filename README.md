@@ -1,5 +1,4 @@
-### Hi there 👋
-### ✨ This is Lina ！✨ 
+### Hi there 👋 This is Lina ！✨ 
 
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/zhanglina94)
@@ -8,7 +7,7 @@
 
 Welcome to my Github page! I am Lina and I am currently finishing my Computer Engineering Master degree at the Konkuk university of Korea!  
 
-<img align="right" alt="img" src="https://github.com/zhanglina94/image/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/zhanglina94/image/pic.jpg" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on 🌱 : 
