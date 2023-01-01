@@ -7,7 +7,7 @@
 
 Welcome to my Github page! I am Lina and I am currently Learning NLP and RL!  
 
-<img align="right" alt="img" src="https://github.com/zhanglina94/zhanglina94/img/pic.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/zhanglina94/zhanglina94/blob/main/img/pic.jpg" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on 🌱 : 
@@ -16,10 +16,9 @@ Welcome to my Github page! I am Lina and I am currently Learning NLP and RL!
 
 
 
-#### :computer: Programming languages and tools: 
+#### :computer: Programming languages and tools :computer: : 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=zhanglina94&show_icons=true&hide_border=true" />
-
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=zhanglina94&show_icons=true&hide_border=true" />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
