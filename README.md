@@ -34,6 +34,6 @@ Welcome to my Github page! I am Lina and I am currently Learning NLP and RL!
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/broccolijs/broccolijs-ar21.svg"></code>
 </p>
 
-<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/zhanglina94/zhanglina94/tree/main/img/pic.jpg)</sub>
+<sub>Credits to: <br/>[Stable Diffusion](https://stablediffusionweb.com) for the wonderfull [picture](https://github.com/zhanglina94/zhanglina94/img/pic.jpg)</sub>
 
-If you want to know more, please refer to the my website.
+If you want to know more, please refer to the my [website](https://zhanglina94.github.io).
