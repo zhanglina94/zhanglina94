@@ -22,7 +22,10 @@ Welcome to my Github page! I am Lina and I am currently Learning NLP and RL!
 - Layout2image
 - pix2pix
 
-
+#### 🌻 I am studying 🌻
+- IELTS
+- French
+- German
 
 
 #### :computer: Programming languages and tools :computer: : 
