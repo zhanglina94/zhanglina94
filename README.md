@@ -15,6 +15,15 @@ Welcome to my Github page! I am Lina and I am currently Learning NLP and RL!
 - [My website](https://zhanglina94.github.io) 🚀 *coming soon*
 
 
+#### ⚡ Things recent ones I'm interested in ⚡ : 
+- Chat GPT
+- Stable Diffusion
+- Image generation
+- Layout2image
+- pix2pix
+
+
+
 
 #### :computer: Programming languages and tools :computer: : 
 <p>
